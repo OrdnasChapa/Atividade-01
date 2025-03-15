@@ -1,6 +1,6 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE-01</TITLE></HEAD>
 <BODY>
-    <H1> TÍTULO-01 </H1>
+    <H1>  TÍTULO-01  </H1>
 </BODY>
 </HTML>
