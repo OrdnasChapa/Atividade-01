@@ -1,6 +1,10 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE-01-SENAI</TITLE></HEAD>
 <BODY>
+<<<<<<< HEAD
     <H1>  GIT - VERSIONAMENTO  </H1>
+=======
+    <H1>  GIT - VERSIONAMENTO </H1>
+>>>>>>> feature1
 </BODY>
 </HTML>
